@@ -29,7 +29,6 @@ body {
 header {
     text-align: center;
     align-content: center;
-    border-bottom: 2px solid black;
 }
 
 .start2 {
@@ -37,4 +36,5 @@ header {
     grid-template-columns: 30% 40% 30%;
     height: min-content;
     margin: 5px;
-    border-bottom: 2px solid black;}
+    border-bottom: 2px solid black;
+  }
